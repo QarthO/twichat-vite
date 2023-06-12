@@ -1,3 +1,3 @@
 provider: generic
-url: https://ci.quartzdev.gg/updates
+url: https://ci.quartzdev.gg/twichat/updates
 updaterCacheDirName: twichat-vite-updater

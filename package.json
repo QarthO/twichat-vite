@@ -1,5 +1,5 @@
 {
-  "name": "twichat-vite",
+  "name": "twichat",
   "version": "0.0.2",
   "description": "Desktop overlay to view your twitch stream's chat in realtime",
   "main": "./out/main/index.js",
